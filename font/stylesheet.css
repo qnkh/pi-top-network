@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'pi-topFONT';
+    src: url('pi-topFONT-Regular.eot');
+    src: url('pi-topFONT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('pi-topFONT-Regular.woff2') format('woff2'),
+        url('pi-topFONT-Regular.woff') format('woff'),
+        url('pi-topFONT-Regular.ttf') format('truetype'),
+        url('pi-topFONT-Regular.svg#pi-topFONT-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

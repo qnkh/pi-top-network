@@ -1,0 +1,24 @@
+.font {
+    font-family: 'pi-topFONT';
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    border-radius: 30px;
+    color: green;
+}
+h1 {
+	font-size: 90px;
+}
+h5 {
+	font-size: 40px;
+}
+body,html {
+	background-color: black;
+}
+.normalfont {
+    font-family: 'pi-topFONT';
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    color: green;
+ }
